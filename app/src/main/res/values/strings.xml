@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThirdPlatformIntegrate</string>
+    <string name="main_button_alipay">支付宝支付</string>
+</resources>
